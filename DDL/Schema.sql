@@ -27,7 +27,7 @@ CREATE TABLE insurance_policy
 (
     policy_id     INT          NOT NULL PRIMARY KEY,
     policy_name   VARCHAR(100) NOT NULL,
-    coverage_type VARCHAR(100) NOT NULL,
+    coverage INT NOT NULL,
     provider_name VARCHAR(100) NOT NULL
 );
 

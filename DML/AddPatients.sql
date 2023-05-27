@@ -23,5 +23,9 @@ VALUES (6, 'Larissa', 'Pinto', '189 Cedarstone Drive
 Toledo, OH 43613', '1982-07-19', '535-67-3385');
 
 INSERT INTO patient (patient_id, first_name, last_name, address, dob, ssn)
-VALUES (6, 'Larissa', 'Pinto', '189 Cedarstone Drive
-Toledo, OH 43613', '1982-07-19', '535-67-3385');
+VALUES (7, 'Larissa', 'Pinto', '2520 Golden Street
+Miami, FL 33179', '1982-07-19', '535-67-3385');
+
+INSERT INTO patient (patient_id, first_name, last_name, address, dob, ssn)
+VALUES (8, 'Arno', 'Longpré', '3263 Howard Street
+Grand Rapids, MI 49503', '1972-03-29', '363-18-3385');
