@@ -8,3 +8,9 @@ Sequence of execution
 5. DML\AddDoctors.sql
 6. DML\AddPatients.sql
 7. DML\AddPatients.sql
+8. DML\AddPharmacies.sql
+9. DML\AddInsurancePolicies.sql
+10. DML\AddDrugInventory.sql
+11. DML\AddPolicySubscription
+12. DML\AddAppointments.sql
+13. DML\
