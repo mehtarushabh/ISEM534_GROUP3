@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run All" type="DatabaseScript">
+    <script-file value="$PROJECT_DIR$/DDL/DropDatabase.sql" />
+    <script-file value="$PROJECT_DIR$/DDL/CreateDatabase.sql" />
+    <script-file value="$PROJECT_DIR$/UseDatabase.sql" />
+    <script-file value="$PROJECT_DIR$/DDL/Schema.sql" />
+    <script-file value="$PROJECT_DIR$/DML/AddDoctors.sql" />
+    <script-file value="$PROJECT_DIR$/DML/AddPatients.sql" />
+    <script-file value="$PROJECT_DIR$/DML/AddPharmacies.sql" />
+    <script-file value="$PROJECT_DIR$/DML/AddInsurancePolicies.sql" />
+    <script-file value="$PROJECT_DIR$/DML/AddDrugInventory.sql" />
+    <script-file value="$PROJECT_DIR$/DML/AddPolicySubscriptions.sql" />
+    <script-file value="$PROJECT_DIR$/DML/AddAppointments.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="b505797b-fe5e-4253-884b-29af4febfaff" />
+    <method v="2" />
+  </configuration>
+</component>
