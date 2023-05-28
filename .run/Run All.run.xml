@@ -11,6 +11,8 @@
     <script-file value="$PROJECT_DIR$/DML/AddDrugInventory.sql" />
     <script-file value="$PROJECT_DIR$/DML/AddPolicySubscriptions.sql" />
     <script-file value="$PROJECT_DIR$/DML/AddAppointments.sql" />
+    <script-file value="$PROJECT_DIR$/DML/AddDrugPrescriptions.sql" />
+    <script-file value="$PROJECT_DIR$/DML/AddDrugCollections.sql" />
     <script-mode>FILE</script-mode>
     <data-source id="b505797b-fe5e-4253-884b-29af4febfaff" />
     <method v="2" />
