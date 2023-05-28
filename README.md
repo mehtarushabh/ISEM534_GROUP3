@@ -7,4 +7,4 @@ Sequence of execution
 4. DDL\Schema.sql
 5. DML\AddDoctors.sql
 6. DML\AddPatients.sql
-7. 
+7. DML\AddPatients.sql
